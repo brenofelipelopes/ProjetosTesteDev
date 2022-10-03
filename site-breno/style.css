@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cabeçalho {
+  background-color: #0b0b1a;
+
+  position: absolute;
+}
+img {
+  float: left;
+}
+
+li {
+  color: whitesmoke;
+  padding: 5px;
+  margin: 2px;
+  float: right;
+  list-style: none;
+  border: 2px solid white;
+}
