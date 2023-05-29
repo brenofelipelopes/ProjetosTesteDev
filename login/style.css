@@ -1,0 +1,21 @@
+.boxLogin {
+  width: 50%;
+  background-color: aqua;
+  text-align: center;
+}
+form {
+  width: 50%;
+}
+
+#username {
+  margin-bottom: 10px;
+}
+
+#password {
+  margin-bottom: 10px;
+}
+
+#login {
+  margin-bottom: 10px;
+  width: 100%;
+}
